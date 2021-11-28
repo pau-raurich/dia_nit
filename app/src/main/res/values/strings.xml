@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">dia_nit</string>
+    <string name="titol">Els colors</string>
+    <string name="Blau">Blau</string>
+    <string name="Fúcsia">Fúcsia</string>
+    <string name="Plata">Plata</string>
+    <string name="Gris">Gris</string>
+    <string name="Negre">Negre</string>
+    <string name="Vermell">Vermell</string>
+    <string name="Marró">Marró</string>
+    <string name="Tronja">Tronja</string>
+    <string name="Groc">Groc</string>
+    <string name="Oliva">Oliva</string>
+    <string name="Lima">Lima</string>
+    <string name="Verd">Verd</string>
+</resources>

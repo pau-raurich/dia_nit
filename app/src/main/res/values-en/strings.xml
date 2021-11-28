@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">dia_nit</string>
+    <string name="titol">The colors</string>
+    <string name="Blau">Blue</string>
+    <string name="Fúcsia">Fuchsia</string>
+    <string name="Plata">Silver</string>
+    <string name="Gris">Gray</string>
+    <string name="Negre">Black</string>
+    <string name="Vermell">Red</string>
+    <string name="Marró">Brown</string>
+    <string name="Tronja">Orange</string>
+    <string name="Groc">Yellow</string>
+    <string name="Oliva">Olive</string>
+    <string name="Lima">Lima</string>
+    <string name="Verd">Green</string>
+</resources>
